@@ -3,4 +3,4 @@
  test project to check state of kmnowledge and abilites in webdevelopment
  -----
  ----
- explain project/how to install/how to use(contribute/license)) banner logo title/badge/
+ Das project in seiner Anforderungg iszt im brief erklaert [Projectdeliverables](https://docs.google.com/presentation/d/132gCV7QV-cIKW_3i318RsKZ-M6kTZCHbeYhidCWvSyU/edit#slide=id.g1bc1791a7b7_0_0)
