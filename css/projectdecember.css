@@ -1,5 +1,31 @@
+.mainbox {
+        border-width: 5px;
+        border-style: solid;
+       /*  border-color: green; */
+        border-radius: 30px;
+      } 
+
+#mainbox {
+    border-color:orange
+}
+    
 
 
+.border {
+    border-style: solid;
+    border-color: black;
+}
+
+.pic1 {
+    font-size: 300px;
+    text-align: center;
+}
+
+#pic1 {
+    font-size: 100px;
+    text-align: center;
+
+}
 
 .footer {
     position: fixed;
